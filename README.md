@@ -13,7 +13,7 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 *An interactive Power BI dashboard that analyzes coffee shop sales data to uncover key trends, highlight the impact of promotions, and provide actionable business recommendations through clear, data-driven storytelling.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*A Tableau project analyzing one month of machine telemetry data from Daikibo’s four international factories to identify where breakdowns occurred most frequently and which machines were most prone to failure.*
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
