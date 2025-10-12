@@ -9,7 +9,7 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 ## 🚀 Projects
 
 
-### Project Title One
+### Coffee Shop Sales Performance
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Project Title Two
@@ -27,9 +27,3 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 - **Data Modeling**: Power Query and DAX.
 - **Tools**: Power BI Service.
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
