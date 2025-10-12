@@ -6,7 +6,7 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 
 *A detail-oriented Data Analyst with a background in logistics, proficient in transforming complex data into actionable insights. Skilled in Python, SQL, Tableau and Power BI, I leverage a unique operational perspective to optimize processes and drive data-informed decisions. Equipped with a strong foundation in data management, visualization, and stakeholder collaboration.*
 
-## 🚀 Projects
+##  Projects
 
 
 ### Coffee Shop Sales Performance
@@ -19,7 +19,7 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 *A brief description of your project, the tools used, and the key insights derived.*
 
 
-## 🛠️ Skills
+## Skills
 
 
 - **Data Visualization**: Power BI, Tableau and Excel dashboards.
