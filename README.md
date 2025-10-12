@@ -15,9 +15,6 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 ### Daikibo Factory Telemetry Analysis – Machine Breakdown Dashboard 
 *A Tableau project analyzing one month of machine telemetry data from Daikibo’s four international factories to identify where breakdowns occurred most frequently and which machines were most prone to failure, and provide recommendations to the client.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
 
 ## Skills
 
