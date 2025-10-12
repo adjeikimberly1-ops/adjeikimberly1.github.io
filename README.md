@@ -10,7 +10,7 @@ Welcome to my dashboard. I communicate effectively to stakeholders through data 
 
 
 ### Coffee Shop Sales Performance
-*A brief description of your project, the tools used, and the key insights derived.*
+*An interactive Power BI dashboard that analyzes coffee shop sales data to uncover key trends, highlight the impact of promotions, and provide actionable business recommendations through clear, data-driven storytelling.*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
